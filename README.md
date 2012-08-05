@@ -1,3 +1,7 @@
+This is mine
+============
+This is a working model supporting the associate to a User. This also has working delete. More to follow. 
+
 [jQuery-File-Upload](http://aquantum-demo.appspot.com/file-upload) is developed by Sebastian Tschan, with the source available on [github](https://github.com/blueimp/jQuery-File-Upload). Example code is [ported to Django](https://github.com/sigurdga/django-jquery-file-upload) by Sigurd Gartmann ([sigurdga on github](https://github.com/sigurdga/)).
 
 Introduction
