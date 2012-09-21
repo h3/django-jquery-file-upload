@@ -5,7 +5,7 @@ django-jquery-file-upload
 from setuptools import setup, find_packages
 
 setup(
-    name = "django-bootstrap-ui",
+    name = "django-jquery-file-upload",
     version = "0.0.1",
     url = "",
     license = "The MIT License (MIT)",
